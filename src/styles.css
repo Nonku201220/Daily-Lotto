@@ -1,0 +1,10 @@
+.canvas-container{
+width: 300px;
+border-radius: 3px;
+padding: 100px;
+background-color: #fff;
+}
+
+.barcode-canvas{
+    width: 100%
+}

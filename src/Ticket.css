@@ -1,0 +1,31 @@
+.header {
+    color:black;
+    padding: 20px;
+  }
+  
+  .header h1 {
+    margin: -60;
+    font-size: 32px;
+  }
+  
+  .header p {
+    margin: 0;
+    font-size: 18px;
+  }
+  
+
+  
+  .footer {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .total-amount {
+    font-size: 24px;
+  }
+  
+  .date {
+    font-size: 18px;
+  }
+  
